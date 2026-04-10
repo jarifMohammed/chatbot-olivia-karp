@@ -1,0 +1,9 @@
+olivia_karp/
+.env
+__pycache__/
+ingestion/__pycache__/
+chat/__pycache__/
+llm/__pycache__/
+retriever/__pycache__/
+reranker/__pycache__/
+data/
